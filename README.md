@@ -131,6 +131,7 @@ of this presentation
 ---
 
 # Supply Chain Attack Vectors
+## SBOMs won't save you
 
 - Typosquatting
 - Malicious Code Injection
