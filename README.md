@@ -113,12 +113,12 @@ A: Erm... SBOMs as solution for supply chain attacks? Do you actually know, what
 C: Absolutely yes! An SBOM is like a list of ingredients, that tells me what's in food, just for software. For example: 30 lines of HTML, 50 lines of Java, that sort of things.
 
 ---
-
+<p>
 <figure>
     <img src="images/dependency-tree.png" alt="Example Dependency Tree" width="600" height="auto">
     <figcaption><a href="https://blog.droidchef.dev/mastering-the-gradle-dependency-tree/">Ishan Khanna: Mastering the Gradle Dependency Tree</a></figcaption>
 </figure>
-<br/>
+</p>
 
 Dialog:
 
@@ -138,7 +138,7 @@ C: Yeah, sure, business value, definitely...
 </figure>
 <br/>
 
-Dialog:
+### Dialog:
 
 A: That would be near to impossible without such external components nowadays. Different studies found that 70-90% of any given software code base is made up of open source components.
 
@@ -727,7 +727,7 @@ C: Not at all, I hope!
     <img src="images/log4j.png" alt="Downloaded versions of log4j" width="1000" height="auto">
     <figcaption><a href="https://www.sonatype.com/state-of-the-software-supply-chain/2024/risk">Sonatype: 2024 State of the Supply Chain</a></figcaption>
 </figure>
-<br/>
+<p/>
 
 Dialog:
 
